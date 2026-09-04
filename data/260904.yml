@@ -7,7 +7,7 @@ about:
   head: f8850fc
   archived: false
   latestVersion: v0.43.0
-  collectedAt: 2026-09-04T19:25:06Z
+  collectedAt: 2026-09-04T21:06:54Z
 timeline:
   created: 2014-06-26
   lastCommit: 2026-09-04
@@ -85,6 +85,74 @@ total:
   openIssue: 795
   commit: 15988
 ---
+path: /home/runner/.x-repo/github.com/ipfs/kubo
+collectedAt: 2026-09-04T21:06:58Z
+loc:
+  Go:
+    code: 86206
+    comments: 11258
+    blanks: 16690
+    files: 569
+  Sh:
+    code: 12236
+    comments: 1407
+    blanks: 3372
+    files: 131
+  Bash:
+    code: 587
+    comments: 84
+    blanks: 122
+    files: 4
+  Makefile:
+    code: 445
+    comments: 74
+    blanks: 154
+    files: 18
+  Json:
+    code: 381
+    comments: 0
+    blanks: 0
+    files: 7
+  Dockerfile:
+    code: 83
+    comments: 37
+    blanks: 32
+    files: 5
+  Yaml:
+    code: 74
+    comments: 5
+    blanks: 10
+    files: 3
+  Svg:
+    code: 34
+    comments: 0
+    blanks: 0
+    files: 1
+  Python:
+    code: 28
+    comments: 1
+    blanks: 8
+    files: 1
+  Bitbake:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 27345
+    blanks: 6596
+    files: 106
+  Text:
+    code: 0
+    comments: 8
+    blanks: 4
+    files: 1
+total:
+  code: 100842
+  comments: 40262
+  blanks: 27011
+  files: 847
 ---
 date: "2026-08-24"
 repo:
