@@ -5,7 +5,7 @@ about:
   head: a13ea47
   archived: false
   latestVersion: "v0.43.0"
-  collectedAt: 2026-09-08T03:14:26Z
+  collectedAt: 2026-09-08T06:09:25Z
 timeline:
   created: 2014-06-26
   lastCommit: 2026-09-07
@@ -84,7 +84,7 @@ total:
   commit: 15990
 ---
 path: /home/runner/.x-repo/github.com/ipfs/kubo
-collectedAt: 2026-09-08T03:14:33Z
+collectedAt: 2026-09-08T06:09:33Z
 loc:
   Go:
     code: 86241
