@@ -1,62 +1,62 @@
 # kubo
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 
-![kubo](https://repo.x-cmd.io/kubo.svg)
+![kubo](https://repo.x-cmd.io/kubo.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install kubo
 ```
 
-## Code insight
+## 代码规模
 
-Total: **100,541** lines of code across **731** files in the top 5 languages.
+合计: **100,541** 行代码（覆盖前 5 种语言、共 **731** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 86,670 | 11,310 | 16,759 | 571 |
 | Sh | 12,236 | 1,407 | 3,372 | 131 |
 | Bash | 587 | 84 | 122 | 4 |
 | Makefile | 445 | 74 | 154 | 18 |
 | Json | 381 | 0 | 0 | 7 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **5.9 / 10**
+总评分: **5.9 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/ipfs/kubo>
-- **Homepage**: <https://docs.ipfs.tech/how-to/command-line-quick-start/>
-- **License**: NOASSERTION
+- **上游仓库**: <https://github.com/ipfs/kubo>
+- **官网**: <https://docs.ipfs.tech/how-to/command-line-quick-start/>
+- **许可证**: NOASSERTION
 
-## Release
+## 发布
 
-- **Latest**: `v0.43.0` (2026-08-03)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 30
+- **最新版本**: `v0.43.0` (2026-08-03)
+- **最近提交**: 2026-09-09
+- **Release 含资产**: 30 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 17,131 · **Forks**: 3,169 · **Open issues**: 4,856 · **Contributors**: 420
+- **Star**: 17,131 · **Fork**: 3,169 · **开放 issue**: 4,856 · **贡献者**: 420
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 134 · **Merged PRs**: 4825 · **Open PRs**: 78 · **Closed issues**: 4062 · **Open issues**: 794 · **Commits**: 15994
+- **发布数**: 134 · **已合并 PR**: 4825 · **开放 PR**: 78 · **已关闭 issue**: 4062 · **开放 issue**: 794 · **提交数**: 15994
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 12 | 12 | 4 | 3 | 23 |
 | last60d | 2026-07-12 | 3 | 35 | 18 | 7 | 4 | 73 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 19 | 295 | 27 | 80 | 19 | 520 |
 | last720d | 2024-09-20 | 44 | 556 | 29 | 173 | 32 | 836 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [kubo-source.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo-source.tar.gz) | 18.3 MiB | `native/unknown` |
 | [kubo-source.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo-source.tar.gz.cid) | 60 B | `other` |
 | [kubo-source.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo-source.tar.gz.sha512) | 149 B | `other` |
@@ -100,12 +100,12 @@ Lowest-scoring checks:
 | [kubo_v0.43.0_windows-arm64.zip.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_windows-arm64.zip.cid) | 60 B | `native/win/arm64` |
 | [kubo_v0.43.0_windows-arm64.zip.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_windows-arm64.zip.sha512) | 161 B | `native/win/arm64` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **173** distros on [repology.org](https://repology.org/project/kubo). **13** are ✅ on the latest upstream release, **81** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/kubo) 上共有 **173** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**81** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Arch | `0.43.0` | ✅ latest |
 | Homebrew | `0.43.0` | ✅ latest |
 | Nix unstable | `0.43.0` | ✅ latest |
@@ -113,13 +113,13 @@ Reported by **173** distros on [repology.org](https://repology.org/project/kubo)
 | Alpine edge | `0.42.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.40.1` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+kubo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubo` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kubo.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/kubo.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:10:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:10:40Z._
