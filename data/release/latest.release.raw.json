@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 54718362,
       "digest": "sha256:2ccb2c16c4ed0c893858dc6ac8a062d789e36a03339a7164459a917b64354c3d",
-      "download_count": 30387,
+      "download_count": 30434,
       "created_at": "2026-08-03T15:08:53Z",
       "updated_at": "2026-08-03T15:08:55Z",
       "browser_download_url": "https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-amd64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 38359889,
       "digest": "sha256:1387ba3cf787dc8fe267c80167243676cfd86c015fddca9d933790578370cd6e",
-      "download_count": 683,
+      "download_count": 686,
       "created_at": "2026-08-03T15:09:04Z",
       "updated_at": "2026-08-03T15:09:06Z",
       "browser_download_url": "https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-arm64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 162,
       "digest": "sha256:2cb32181dfda712f52ade7d665091a374bcb85e2e636c2932675b45b9fe6ae25",
-      "download_count": 375,
+      "download_count": 378,
       "created_at": "2026-08-03T15:09:06Z",
       "updated_at": "2026-08-03T15:09:06Z",
       "browser_download_url": "https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-arm64.tar.gz.sha512"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 161,
       "digest": "sha256:c9b26b91813916d873b45351f3c229c528564ea686bdeb3ecc09f29f8b39a44e",
-      "download_count": 918,
+      "download_count": 919,
       "created_at": "2026-08-03T15:09:44Z",
       "updated_at": "2026-08-03T15:09:44Z",
       "browser_download_url": "https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_windows-amd64.zip.sha512"

@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.43.0"
   latestRelease: "v0.43.0"
   latestPrerelease: "v0.43.0-rc2"
-  collectedAt: 2026-09-10T21:10:15Z
+  collectedAt: 2026-09-10T22:46:11Z
 timeline:
   created: 2014-06-26
   lastCommit: 2026-09-09
@@ -88,7 +88,7 @@ total:
   commit: 15994
 ---
 path: /home/runner/.x-repo/github.com/ipfs/kubo
-collectedAt: 2026-09-10T21:10:26Z
+collectedAt: 2026-09-10T22:46:19Z
 loc:
   Go:
     code: 86670
