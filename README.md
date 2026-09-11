@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 134 · **Merged PRs**: 4825 · **Open PRs**: 78 · **Closed issues**: 4062 · **Open issues**: 794 · **Commits**: 15994
+- **Releases**: 134 · **Merged PRs**: 4825 · **Open PRs**: 79 · **Closed issues**: 4062 · **Open issues**: 794 · **Commits**: 15994
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 12 | 12 | 4 | 3 | 23 |
-| last60d | 2026-07-12 | 3 | 35 | 18 | 7 | 4 | 73 |
-| 90d | 2026-06-12 | 3 | 55 | 20 | 11 | 4 | 109 |
-| last180d | 2026-03-14 | 8 | 131 | 22 | 30 | 10 | 234 |
-| 360d | 2025-09-15 | 19 | 295 | 27 | 80 | 19 | 520 |
-| last720d | 2024-09-20 | 44 | 556 | 29 | 173 | 32 | 836 |
+| 30d | 2026-08-12 | 0 | 12 | 13 | 4 | 3 | 23 |
+| last60d | 2026-07-13 | 3 | 35 | 19 | 7 | 4 | 73 |
+| 90d | 2026-06-13 | 3 | 55 | 21 | 11 | 4 | 109 |
+| last180d | 2026-03-15 | 8 | 130 | 23 | 30 | 10 | 234 |
+| 360d | 2025-09-16 | 19 | 295 | 28 | 79 | 19 | 520 |
+| last720d | 2024-09-21 | 44 | 556 | 30 | 172 | 32 | 834 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:46:25Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:14:44Z._
