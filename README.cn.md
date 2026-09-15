@@ -14,11 +14,11 @@ x install kubo
 
 ## 代码洞察
 
-合计: **100,541** 行代码（覆盖前 5 种语言、共 **731** 个文件）。
+合计: **100,559** 行代码（覆盖前 5 种语言、共 **731** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 86,670 | 11,310 | 16,759 | 571 |
+| Go | 86,688 | 11,305 | 16,761 | 571 |
 | Sh | 12,236 | 1,407 | 3,372 | 131 |
 | Bash | 587 | 84 | 122 | 4 |
 | Makefile | 445 | 74 | 154 | 18 |
@@ -42,63 +42,63 @@ x install kubo
 
 ## 发布
 
-- **最新版本**: `v0.43.0` (2026-08-03)
-- **最近提交**: 2026-09-09
+- **最新版本**: `v0.43.1` (2026-09-15)
+- **最近提交**: 2026-09-15
 - **Release 含资产**: 30 个
 
 ## 流行度
 
-- **Star**: 17,139 · **Fork**: 3,170 · **开放 issue**: 4,856 · **贡献者**: 420
+- **Star**: 17,139 · **Fork**: 3,171 · **开放 issue**: 4,858 · **贡献者**: 420
 
 ## 累计统计
 
-- **发布数**: 134 · **已合并 PR**: 4825 · **开放 PR**: 82 · **已关闭 issue**: 4062 · **开放 issue**: 794 · **提交数**: 15994
+- **发布数**: 135 · **已合并 PR**: 4828 · **开放 PR**: 81 · **已关闭 issue**: 4062 · **开放 issue**: 796 · **提交数**: 16019
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 9 | 16 | 4 | 3 | 16 |
-| last60d | 2026-07-16 | 3 | 32 | 22 | 7 | 4 | 69 |
-| 90d | 2026-06-16 | 3 | 54 | 24 | 11 | 4 | 104 |
-| last180d | 2026-03-18 | 8 | 125 | 26 | 29 | 10 | 225 |
-| 360d | 2025-09-19 | 19 | 285 | 31 | 77 | 19 | 492 |
-| last720d | 2024-09-24 | 44 | 554 | 33 | 172 | 32 | 834 |
+| 30d | 2026-08-16 | 1 | 12 | 15 | 3 | 5 | 35 |
+| last60d | 2026-07-17 | 4 | 34 | 21 | 7 | 6 | 101 |
+| 90d | 2026-06-17 | 4 | 57 | 23 | 11 | 6 | 136 |
+| last180d | 2026-03-19 | 9 | 127 | 25 | 29 | 12 | 257 |
+| 360d | 2025-09-20 | 19 | 287 | 30 | 77 | 21 | 524 |
+| last720d | 2024-09-25 | 45 | 556 | 32 | 172 | 34 | 858 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [kubo-source.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo-source.tar.gz) | 18.3 MiB | `native/unknown` |
-| [kubo-source.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo-source.tar.gz.cid) | 60 B | `other` |
-| [kubo-source.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo-source.tar.gz.sha512) | 149 B | `other` |
-| [kubo_v0.43.0_darwin-amd64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_darwin-amd64.tar.gz) | 41.9 MiB | `native/darwin/x64` |
-| [kubo_v0.43.0_darwin-amd64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_darwin-amd64.tar.gz.cid) | 60 B | `native/darwin/x64` |
-| [kubo_v0.43.0_darwin-amd64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_darwin-amd64.tar.gz.sha512) | 163 B | `native/darwin/x64` |
-| [kubo_v0.43.0_darwin-arm64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_darwin-arm64.tar.gz) | 38.4 MiB | `native/darwin/arm64` |
-| [kubo_v0.43.0_darwin-arm64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_darwin-arm64.tar.gz.cid) | 60 B | `native/darwin/arm64` |
-| [kubo_v0.43.0_darwin-arm64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_darwin-arm64.tar.gz.sha512) | 163 B | `native/darwin/arm64` |
-| [kubo_v0.43.0_freebsd-amd64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_freebsd-amd64.tar.gz) | 39.5 MiB | `native/linux/x64` |
-| [kubo_v0.43.0_freebsd-amd64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_freebsd-amd64.tar.gz.cid) | 60 B | `other` |
-| [kubo_v0.43.0_freebsd-amd64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_freebsd-amd64.tar.gz.sha512) | 164 B | `other` |
-| [kubo_v0.43.0_linux-amd64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-amd64.tar.gz) | 52.2 MiB | `native/linux/x64` |
-| [kubo_v0.43.0_linux-amd64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-amd64.tar.gz.cid) | 60 B | `native/linux/x64` |
-| [kubo_v0.43.0_linux-amd64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-amd64.tar.gz.sha512) | 162 B | `native/linux/x64` |
-| [kubo_v0.43.0_linux-arm64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-arm64.tar.gz) | 36.6 MiB | `native/linux/arm64` |
-| [kubo_v0.43.0_linux-arm64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-arm64.tar.gz.cid) | 60 B | `native/linux/arm64` |
-| [kubo_v0.43.0_linux-arm64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-arm64.tar.gz.sha512) | 162 B | `native/linux/arm64` |
-| [kubo_v0.43.0_linux-riscv64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-riscv64.tar.gz) | 38.1 MiB | `native/linux/riscv64` |
-| [kubo_v0.43.0_linux-riscv64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-riscv64.tar.gz.cid) | 60 B | `native/linux/riscv64` |
-| [kubo_v0.43.0_linux-riscv64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_linux-riscv64.tar.gz.sha512) | 164 B | `native/linux/riscv64` |
-| [kubo_v0.43.0_openbsd-amd64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_openbsd-amd64.tar.gz) | 39.1 MiB | `native/linux/x64` |
-| [kubo_v0.43.0_openbsd-amd64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_openbsd-amd64.tar.gz.cid) | 60 B | `other` |
-| [kubo_v0.43.0_openbsd-amd64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_openbsd-amd64.tar.gz.sha512) | 164 B | `other` |
-| [kubo_v0.43.0_windows-amd64.zip](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_windows-amd64.zip) | 39.6 MiB | `native/win/x64` |
-| [kubo_v0.43.0_windows-amd64.zip.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_windows-amd64.zip.cid) | 60 B | `native/win/x64` |
-| [kubo_v0.43.0_windows-amd64.zip.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_windows-amd64.zip.sha512) | 161 B | `native/win/x64` |
-| [kubo_v0.43.0_windows-arm64.zip](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_windows-arm64.zip) | 36.2 MiB | `native/win/arm64` |
-| [kubo_v0.43.0_windows-arm64.zip.cid](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_windows-arm64.zip.cid) | 60 B | `native/win/arm64` |
-| [kubo_v0.43.0_windows-arm64.zip.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.0/kubo_v0.43.0_windows-arm64.zip.sha512) | 161 B | `native/win/arm64` |
+| [kubo-source.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo-source.tar.gz) | 18.6 MiB | `native/unknown` |
+| [kubo-source.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo-source.tar.gz.cid) | 60 B | `other` |
+| [kubo-source.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo-source.tar.gz.sha512) | 149 B | `other` |
+| [kubo_v0.43.1_darwin-amd64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_darwin-amd64.tar.gz) | 42.6 MiB | `native/darwin/x64` |
+| [kubo_v0.43.1_darwin-amd64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_darwin-amd64.tar.gz.cid) | 60 B | `native/darwin/x64` |
+| [kubo_v0.43.1_darwin-amd64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_darwin-amd64.tar.gz.sha512) | 163 B | `native/darwin/x64` |
+| [kubo_v0.43.1_darwin-arm64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_darwin-arm64.tar.gz) | 39.1 MiB | `native/darwin/arm64` |
+| [kubo_v0.43.1_darwin-arm64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_darwin-arm64.tar.gz.cid) | 60 B | `native/darwin/arm64` |
+| [kubo_v0.43.1_darwin-arm64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_darwin-arm64.tar.gz.sha512) | 163 B | `native/darwin/arm64` |
+| [kubo_v0.43.1_freebsd-amd64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_freebsd-amd64.tar.gz) | 40.2 MiB | `native/linux/x64` |
+| [kubo_v0.43.1_freebsd-amd64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_freebsd-amd64.tar.gz.cid) | 60 B | `other` |
+| [kubo_v0.43.1_freebsd-amd64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_freebsd-amd64.tar.gz.sha512) | 164 B | `other` |
+| [kubo_v0.43.1_linux-amd64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_linux-amd64.tar.gz) | 53.1 MiB | `native/linux/x64` |
+| [kubo_v0.43.1_linux-amd64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_linux-amd64.tar.gz.cid) | 60 B | `native/linux/x64` |
+| [kubo_v0.43.1_linux-amd64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_linux-amd64.tar.gz.sha512) | 162 B | `native/linux/x64` |
+| [kubo_v0.43.1_linux-arm64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_linux-arm64.tar.gz) | 37.2 MiB | `native/linux/arm64` |
+| [kubo_v0.43.1_linux-arm64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_linux-arm64.tar.gz.cid) | 60 B | `native/linux/arm64` |
+| [kubo_v0.43.1_linux-arm64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_linux-arm64.tar.gz.sha512) | 162 B | `native/linux/arm64` |
+| [kubo_v0.43.1_linux-riscv64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_linux-riscv64.tar.gz) | 38.8 MiB | `native/linux/riscv64` |
+| [kubo_v0.43.1_linux-riscv64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_linux-riscv64.tar.gz.cid) | 60 B | `native/linux/riscv64` |
+| [kubo_v0.43.1_linux-riscv64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_linux-riscv64.tar.gz.sha512) | 164 B | `native/linux/riscv64` |
+| [kubo_v0.43.1_openbsd-amd64.tar.gz](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_openbsd-amd64.tar.gz) | 39.8 MiB | `native/linux/x64` |
+| [kubo_v0.43.1_openbsd-amd64.tar.gz.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_openbsd-amd64.tar.gz.cid) | 60 B | `other` |
+| [kubo_v0.43.1_openbsd-amd64.tar.gz.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_openbsd-amd64.tar.gz.sha512) | 164 B | `other` |
+| [kubo_v0.43.1_windows-amd64.zip](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_windows-amd64.zip) | 40.2 MiB | `native/win/x64` |
+| [kubo_v0.43.1_windows-amd64.zip.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_windows-amd64.zip.cid) | 60 B | `native/win/x64` |
+| [kubo_v0.43.1_windows-amd64.zip.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_windows-amd64.zip.sha512) | 161 B | `native/win/x64` |
+| [kubo_v0.43.1_windows-arm64.zip](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_windows-arm64.zip) | 36.8 MiB | `native/win/arm64` |
+| [kubo_v0.43.1_windows-arm64.zip.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_windows-arm64.zip.cid) | 60 B | `native/win/arm64` |
+| [kubo_v0.43.1_windows-arm64.zip.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_windows-arm64.zip.sha512) | 161 B | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -109,4 +109,4 @@ kubo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T06:35:42Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T06:50:55Z._
