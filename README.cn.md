@@ -30,7 +30,7 @@ x install kubo
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 2/8 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ x install kubo
 
 ## 流行度
 
-- **Star**: 17,139 · **Fork**: 3,171 · **开放 issue**: 4,858 · **贡献者**: 420
+- **Star**: 17,139 · **Fork**: 3,170 · **开放 issue**: 4,857 · **贡献者**: 420
 
 ## 累计统计
 
-- **发布数**: 135 · **已合并 PR**: 4828 · **开放 PR**: 81 · **已关闭 issue**: 4062 · **开放 issue**: 796 · **提交数**: 16019
+- **发布数**: 135 · **已合并 PR**: 4828 · **开放 PR**: 77 · **已关闭 issue**: 4063 · **开放 issue**: 794 · **提交数**: 16019
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 12 | 15 | 3 | 5 | 35 |
-| last60d | 2026-07-17 | 4 | 34 | 21 | 7 | 6 | 101 |
-| 90d | 2026-06-17 | 4 | 57 | 23 | 11 | 6 | 136 |
-| last180d | 2026-03-19 | 9 | 127 | 25 | 29 | 12 | 257 |
-| 360d | 2025-09-20 | 19 | 287 | 30 | 77 | 21 | 524 |
-| last720d | 2024-09-25 | 45 | 556 | 32 | 172 | 34 | 858 |
+| 30d | 2026-08-17 | 1 | 11 | 11 | 3 | 4 | 35 |
+| last60d | 2026-07-18 | 4 | 34 | 17 | 7 | 5 | 101 |
+| 90d | 2026-06-18 | 4 | 56 | 19 | 11 | 5 | 136 |
+| last180d | 2026-03-20 | 9 | 126 | 21 | 30 | 10 | 257 |
+| 360d | 2025-09-21 | 19 | 287 | 26 | 78 | 19 | 524 |
+| last720d | 2024-09-26 | 45 | 556 | 28 | 172 | 32 | 858 |
 
 ## Release 资产
 
@@ -109,4 +109,4 @@ kubo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T06:50:55Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:50:31Z._
