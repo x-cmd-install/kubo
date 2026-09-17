@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.43.1` (2026-09-15)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-16
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 17,139 · **Forks**: 3,170 · **Open issues**: 4,857 · **Contributors**: 420
+- **Stars**: 17,137 · **Forks**: 3,170 · **Open issues**: 4,857 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 4828 · **Open PRs**: 77 · **Closed issues**: 4063 · **Open issues**: 794 · **Commits**: 16019
+- **Releases**: 135 · **Merged PRs**: 4828 · **Open PRs**: 77 · **Closed issues**: 4063 · **Open issues**: 794 · **Commits**: 16020
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 11 | 11 | 3 | 4 | 35 |
-| last60d | 2026-07-18 | 4 | 34 | 17 | 7 | 5 | 101 |
-| 90d | 2026-06-18 | 4 | 56 | 19 | 11 | 5 | 136 |
-| last180d | 2026-03-20 | 9 | 126 | 21 | 30 | 10 | 257 |
-| 360d | 2025-09-21 | 19 | 287 | 26 | 78 | 19 | 524 |
-| last720d | 2024-09-26 | 45 | 556 | 28 | 172 | 32 | 858 |
+| 30d | 2026-08-18 | 1 | 11 | 11 | 3 | 4 | 36 |
+| last60d | 2026-07-19 | 4 | 34 | 17 | 7 | 5 | 102 |
+| 90d | 2026-06-19 | 4 | 56 | 19 | 11 | 5 | 137 |
+| last180d | 2026-03-21 | 9 | 125 | 21 | 30 | 10 | 258 |
+| 360d | 2025-09-22 | 19 | 286 | 26 | 77 | 19 | 525 |
+| last720d | 2024-09-27 | 45 | 556 | 28 | 172 | 32 | 857 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:50:30Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:43:10Z._
