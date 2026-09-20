@@ -4,7 +4,7 @@
 
 IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 
-![kubo](https://repo.x-cmd.io/kubo.svg?lang=zh)
+[![x-cmd/install — kubo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubo.svg?lang=zh)](https://x-cmd.com/install/kubo)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install kubo
 
 ## 流行度
 
-- **Star**: 17,137 · **Fork**: 3,171 · **开放 issue**: 4,857 · **贡献者**: 420
+- **Star**: 17,138 · **Fork**: 3,170 · **开放 issue**: 4,857 · **贡献者**: 420
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install kubo
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 11 | 11 | 3 | 3 | 36 |
-| last60d | 2026-07-20 | 4 | 33 | 17 | 7 | 5 | 102 |
-| 90d | 2026-06-20 | 4 | 56 | 19 | 10 | 5 | 137 |
-| last180d | 2026-03-22 | 9 | 125 | 21 | 29 | 10 | 258 |
-| 360d | 2025-09-23 | 19 | 285 | 26 | 77 | 19 | 525 |
-| last720d | 2024-09-28 | 45 | 556 | 28 | 172 | 32 | 856 |
+| 30d | 2026-08-21 | 1 | 10 | 11 | 3 | 3 | 32 |
+| last60d | 2026-07-22 | 4 | 28 | 17 | 7 | 5 | 80 |
+| 90d | 2026-06-22 | 4 | 55 | 19 | 9 | 5 | 128 |
+| last180d | 2026-03-24 | 9 | 124 | 21 | 29 | 10 | 253 |
+| 360d | 2025-09-25 | 19 | 283 | 26 | 75 | 19 | 490 |
+| last720d | 2024-09-30 | 45 | 555 | 28 | 172 | 32 | 854 |
 
 ## Release 资产
 
@@ -109,4 +109,4 @@ kubo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:29:11Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:25:16Z._
