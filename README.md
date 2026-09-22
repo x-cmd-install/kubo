@@ -26,11 +26,11 @@ Total: **100,559** lines of code across **731** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 2/8 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.43.1` (2026-09-15)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-21
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 17,138 · **Forks**: 3,171 · **Open issues**: 4,857 · **Contributors**: 420
+- **Stars**: 17,140 · **Forks**: 3,172 · **Open issues**: 4,857 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 4828 · **Open PRs**: 77 · **Closed issues**: 4063 · **Open issues**: 794 · **Commits**: 16020
+- **Releases**: 135 · **Merged PRs**: 4829 · **Open PRs**: 77 · **Closed issues**: 4063 · **Open issues**: 794 · **Commits**: 16021
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 10 | 11 | 3 | 3 | 32 |
-| last60d | 2026-07-23 | 4 | 27 | 16 | 7 | 5 | 80 |
-| 90d | 2026-06-23 | 4 | 55 | 19 | 9 | 5 | 128 |
-| last180d | 2026-03-25 | 9 | 123 | 21 | 29 | 10 | 253 |
-| 360d | 2025-09-26 | 19 | 282 | 26 | 74 | 19 | 490 |
-| last720d | 2024-10-01 | 45 | 555 | 28 | 172 | 32 | 854 |
+| 30d | 2026-08-23 | 1 | 10 | 11 | 3 | 3 | 33 |
+| last60d | 2026-07-24 | 3 | 28 | 15 | 7 | 5 | 81 |
+| 90d | 2026-06-24 | 4 | 54 | 19 | 8 | 5 | 129 |
+| last180d | 2026-03-26 | 9 | 122 | 20 | 29 | 10 | 254 |
+| 360d | 2025-09-27 | 19 | 282 | 26 | 74 | 19 | 491 |
+| last720d | 2024-10-02 | 45 | 555 | 28 | 170 | 32 | 855 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:39:33Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:34:28Z._
