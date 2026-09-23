@@ -4,7 +4,7 @@
 
 IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 
-[![x-cmd/install — kubo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubo.svg)](https://x-cmd.com/install/kubo)
+[![x-cmd/install — kubo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubo.svg)](https://x-cmd.com/install/kubo)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,140 · **Forks**: 3,172 · **Open issues**: 4,857 · **Contributors**: 420
+- **Stars**: 17,140 · **Forks**: 3,171 · **Open issues**: 4,857 · **Contributors**: 420
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 10 | 11 | 3 | 3 | 33 |
-| last60d | 2026-07-24 | 3 | 28 | 15 | 7 | 5 | 81 |
-| 90d | 2026-06-24 | 4 | 54 | 19 | 8 | 5 | 129 |
-| last180d | 2026-03-26 | 9 | 122 | 20 | 29 | 10 | 254 |
-| 360d | 2025-09-27 | 19 | 282 | 26 | 74 | 19 | 491 |
-| last720d | 2024-10-02 | 45 | 555 | 28 | 170 | 32 | 855 |
+| 30d | 2026-08-24 | 1 | 10 | 11 | 3 | 3 | 33 |
+| last60d | 2026-07-25 | 3 | 26 | 15 | 7 | 5 | 81 |
+| 90d | 2026-06-25 | 4 | 54 | 19 | 8 | 5 | 129 |
+| last180d | 2026-03-27 | 9 | 120 | 20 | 29 | 10 | 254 |
+| 360d | 2025-09-28 | 18 | 282 | 26 | 74 | 19 | 491 |
+| last720d | 2024-10-03 | 45 | 551 | 28 | 170 | 32 | 855 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:34:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:38:38Z._
