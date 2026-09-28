@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.43.1` (2026-09-15)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-27
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 17,143 · **Forks**: 3,173 · **Open issues**: 4,857 · **Contributors**: 420
+- **Stars**: 17,144 · **Forks**: 3,173 · **Open issues**: 4,857 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 4829 · **Open PRs**: 80 · **Closed issues**: 4063 · **Open issues**: 794 · **Commits**: 16021
+- **Releases**: 135 · **Merged PRs**: 4830 · **Open PRs**: 80 · **Closed issues**: 4063 · **Open issues**: 794 · **Commits**: 16022
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 9 | 14 | 2 | 3 | 27 |
-| last60d | 2026-07-29 | 3 | 20 | 18 | 7 | 4 | 63 |
-| 90d | 2026-06-29 | 4 | 53 | 22 | 7 | 5 | 115 |
-| last180d | 2026-03-31 | 9 | 118 | 23 | 27 | 10 | 244 |
-| 360d | 2025-10-02 | 18 | 273 | 29 | 72 | 18 | 482 |
-| last720d | 2024-10-07 | 44 | 548 | 31 | 168 | 32 | 843 |
+| 30d | 2026-08-29 | 1 | 10 | 14 | 2 | 3 | 28 |
+| last60d | 2026-07-30 | 2 | 21 | 18 | 7 | 4 | 64 |
+| 90d | 2026-06-30 | 4 | 53 | 22 | 7 | 5 | 116 |
+| last180d | 2026-04-01 | 9 | 118 | 23 | 26 | 10 | 245 |
+| 360d | 2025-10-03 | 17 | 272 | 29 | 71 | 18 | 483 |
+| last720d | 2024-10-08 | 44 | 549 | 31 | 168 | 32 | 843 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:33:41Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:40:40Z._
