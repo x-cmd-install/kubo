@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,155 · **Forks**: 3,176 · **Open issues**: 4,855 · **Contributors**: 420
+- **Stars**: 17,158 · **Forks**: 3,174 · **Open issues**: 4,855 · **Contributors**: 420
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 1 | 5 | 0 | 3 | 1 |
-| last60d | 2026-08-25 | 1 | 11 | 17 | 4 | 6 | 36 |
-| 90d | 2026-07-26 | 3 | 27 | 21 | 8 | 8 | 88 |
-| last180d | 2026-04-27 | 6 | 91 | 26 | 19 | 12 | 201 |
-| 360d | 2025-10-29 | 16 | 252 | 32 | 65 | 20 | 463 |
-| last720d | 2024-11-03 | 41 | 531 | 34 | 164 | 34 | 812 |
+| 30d | 2026-09-25 | 0 | 1 | 4 | 0 | 3 | 0 |
+| last60d | 2026-08-26 | 1 | 11 | 17 | 4 | 6 | 32 |
+| 90d | 2026-07-27 | 3 | 25 | 21 | 8 | 8 | 68 |
+| last180d | 2026-04-28 | 6 | 91 | 26 | 19 | 12 | 195 |
+| 360d | 2025-10-30 | 16 | 251 | 32 | 65 | 20 | 456 |
+| last720d | 2024-11-04 | 41 | 530 | 34 | 163 | 34 | 812 |
 
 ## Release assets
 
@@ -107,7 +107,7 @@ Reported by **172** distros on [repology.org](https://repology.org/project/kubo)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.43.1` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.43.1` | ✅ latest |
 | Nix unstable | `0.43.1` | ✅ latest |
 | Void | `0.43.1` | ✅ latest |
 | Alpine edge | `0.43.1` | ✅ latest |
@@ -122,4 +122,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:54:34Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:48:45Z._
