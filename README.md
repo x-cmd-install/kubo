@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,163 · **Forks**: 3,171 · **Open issues**: 4,856 · **Contributors**: 420
+- **Stars**: 17,164 · **Forks**: 3,171 · **Open issues**: 4,856 · **Contributors**: 420
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last60d | 2026-09-01 | 1 | 10 | 18 | 3 | 7 | 32 |
-| 90d | 2026-08-02 | 2 | 21 | 19 | 8 | 8 | 68 |
-| last180d | 2026-05-04 | 6 | 89 | 27 | 14 | 11 | 195 |
-| 360d | 2025-11-05 | 15 | 249 | 33 | 64 | 21 | 457 |
-| last720d | 2024-11-10 | 40 | 526 | 35 | 161 | 35 | 798 |
+| 30d | 2026-10-02 | 0 | 0 | 3 | 0 | 4 | 0 |
+| last60d | 2026-09-02 | 1 | 10 | 17 | 2 | 7 | 13 |
+| 90d | 2026-08-03 | 2 | 20 | 19 | 8 | 8 | 57 |
+| last180d | 2026-05-05 | 6 | 87 | 27 | 14 | 11 | 193 |
+| 360d | 2025-11-06 | 15 | 247 | 33 | 63 | 21 | 449 |
+| last720d | 2024-11-11 | 40 | 526 | 35 | 160 | 35 | 798 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:58:16Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:25:16Z._
