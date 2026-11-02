@@ -48,22 +48,22 @@ x install kubo
 
 ## 流行度
 
-- **Star**: 17,164 · **Fork**: 3,171 · **开放 issue**: 4,856 · **贡献者**: 420
+- **Star**: 17,164 · **Fork**: 3,172 · **开放 issue**: 4,857 · **贡献者**: 420
 
 ## 累计统计
 
-- **发布数**: 135 · **已合并 PR**: 4830 · **开放 PR**: 83 · **已关闭 issue**: 4058 · **开放 issue**: 798 · **提交数**: 16022
+- **发布数**: 135 · **已合并 PR**: 4830 · **开放 PR**: 87 · **已关闭 issue**: 4058 · **开放 issue**: 799 · **提交数**: 16022
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last60d | 2026-09-02 | 1 | 10 | 17 | 2 | 7 | 13 |
-| 90d | 2026-08-03 | 2 | 20 | 19 | 8 | 8 | 57 |
-| last180d | 2026-05-05 | 6 | 87 | 27 | 14 | 11 | 193 |
-| 360d | 2025-11-06 | 15 | 247 | 33 | 63 | 21 | 449 |
-| last720d | 2024-11-11 | 40 | 526 | 35 | 160 | 35 | 798 |
+| 30d | 2026-10-03 | 0 | 0 | 8 | 0 | 5 | 0 |
+| last60d | 2026-09-03 | 1 | 8 | 20 | 2 | 8 | 13 |
+| 90d | 2026-08-04 | 1 | 20 | 23 | 8 | 9 | 57 |
+| last180d | 2026-05-06 | 6 | 86 | 31 | 14 | 12 | 193 |
+| 360d | 2025-11-07 | 15 | 247 | 37 | 62 | 22 | 449 |
+| last720d | 2024-11-12 | 40 | 526 | 39 | 160 | 36 | 798 |
 
 ## Release 资产
 
@@ -100,19 +100,6 @@ x install kubo
 | [kubo_v0.43.1_windows-arm64.zip.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_windows-arm64.zip.cid) | 60 B | `native/win/arm64` |
 | [kubo_v0.43.1_windows-arm64.zip.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_windows-arm64.zip.sha512) | 161 B | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kubo) 上共有 **172** 个发行版报告此项目。**22** 个 ✅ 已是最新上游版本，**72** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.43.1` | ✅ latest |
-| Homebrew | `0.43.1` | ✅ latest |
-| Nix unstable | `0.43.1` | ✅ latest |
-| Void | `0.43.1` | ✅ latest |
-| Alpine edge | `0.43.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.43.1` | ✅ latest |
-
 ## 改进这些数据
 
 kubo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubo` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -122,4 +109,4 @@ kubo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T07:25:17Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T07:29:34Z._

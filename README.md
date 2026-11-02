@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,164 · **Forks**: 3,171 · **Open issues**: 4,856 · **Contributors**: 420
+- **Stars**: 17,164 · **Forks**: 3,172 · **Open issues**: 4,857 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 4830 · **Open PRs**: 83 · **Closed issues**: 4058 · **Open issues**: 798 · **Commits**: 16022
+- **Releases**: 135 · **Merged PRs**: 4830 · **Open PRs**: 87 · **Closed issues**: 4058 · **Open issues**: 799 · **Commits**: 16022
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last60d | 2026-09-02 | 1 | 10 | 17 | 2 | 7 | 13 |
-| 90d | 2026-08-03 | 2 | 20 | 19 | 8 | 8 | 57 |
-| last180d | 2026-05-05 | 6 | 87 | 27 | 14 | 11 | 193 |
-| 360d | 2025-11-06 | 15 | 247 | 33 | 63 | 21 | 449 |
-| last720d | 2024-11-11 | 40 | 526 | 35 | 160 | 35 | 798 |
+| 30d | 2026-10-03 | 0 | 0 | 8 | 0 | 5 | 0 |
+| last60d | 2026-09-03 | 1 | 8 | 20 | 2 | 8 | 13 |
+| 90d | 2026-08-04 | 1 | 20 | 23 | 8 | 9 | 57 |
+| last180d | 2026-05-06 | 6 | 86 | 31 | 14 | 12 | 193 |
+| 360d | 2025-11-07 | 15 | 247 | 37 | 62 | 22 | 449 |
+| last720d | 2024-11-12 | 40 | 526 | 39 | 160 | 36 | 798 |
 
 ## Release assets
 
@@ -100,19 +100,6 @@ Lowest-scoring checks:
 | [kubo_v0.43.1_windows-arm64.zip.cid](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_windows-arm64.zip.cid) | 60 B | `native/win/arm64` |
 | [kubo_v0.43.1_windows-arm64.zip.sha512](https://github.com/ipfs/kubo/releases/download/v0.43.1/kubo_v0.43.1_windows-arm64.zip.sha512) | 161 B | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **172** distros on [repology.org](https://repology.org/project/kubo). **22** are ✅ on the latest upstream release, **72** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.43.1` | ✅ latest |
-| Homebrew | `0.43.1` | ✅ latest |
-| Nix unstable | `0.43.1` | ✅ latest |
-| Void | `0.43.1` | ✅ latest |
-| Alpine edge | `0.43.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.43.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubo` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -122,4 +109,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:25:16Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:29:33Z._
