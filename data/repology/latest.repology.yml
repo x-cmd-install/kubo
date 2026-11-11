@@ -2,325 +2,6 @@
   srcname: ipfs
   binname: ipfs
   visiblename: IPFS
-  version: "0.9"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.14
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.9.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.5"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.5.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.6"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.3.11
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: "0.4"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.2
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.3
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.4
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.8
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.13
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.10
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.11
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.33.2
-  origversion: null
-  status: outdated
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.12
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.15
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.10"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.11"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.16
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.12"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.12.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.17
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.12.2
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.13"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.13.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.32.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.33"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
   version: 0.33.1
   origversion: null
   status: legacy
@@ -328,1135 +9,6 @@
     - MIT license
   categories:
     - Communications
-- repo: chocolatey
-  binname: go-ipfs
-  visiblename: Kubo
-  version: 0.17.0
-  origversion: null
-  status: outdated
-  summary: IPFS implementation in Go https://ipfs.tech
-- repo: chromebrew
-  srcname: ipfs
-  visiblename: ipfs
-  version: 0.4.13
-  origversion: null
-  status: outdated
-  summary: A peer-to-peer hypermedia protocol
-  licenses:
-    - MIT and Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: kubo
-  binname: kubo-openrc
-  visiblename: kubo-openrc
-  version: 0.16.0
-  origversion: 0.16.0-r6
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: kubo
-  binname: kubo-doc
-  visiblename: kubo-doc
-  version: 0.16.0
-  origversion: 0.16.0-r6
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.16.0
-  origversion: 0.16.0-r6
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: kubo
-  binname: kubo-bash-completion
-  visiblename: kubo-bash-completion
-  version: 0.16.0
-  origversion: 0.16.0-r6
-  status: outdated
-  summary: Bash completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.19.2
-  origversion: 0.19.2-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: kubo
-  binname: kubo-bash-completion
-  visiblename: kubo-bash-completion
-  version: 0.19.2
-  origversion: 0.19.2-r5
-  status: outdated
-  summary: Bash completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: kubo
-  binname: kubo-doc
-  visiblename: kubo-doc
-  version: 0.19.2
-  origversion: 0.19.2-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: kubo
-  binname: kubo-migration
-  visiblename: kubo-migration
-  version: 0.19.2
-  origversion: 0.19.2-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (12 to 13 migration)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: kubo
-  binname: kubo-openrc
-  visiblename: kubo-openrc
-  version: 0.19.2
-  origversion: 0.19.2-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.24.0
-  origversion: 0.24.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: kubo
-  binname: kubo-bash-completion
-  visiblename: kubo-bash-completion
-  version: 0.24.0
-  origversion: 0.24.0-r3
-  status: outdated
-  summary: Bash completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.7"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: alpine_3_19
-  subrepo: community
-  srcname: kubo
-  binname: kubo-doc
-  visiblename: kubo-doc
-  version: 0.24.0
-  origversion: 0.24.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: kubo
-  binname: kubo-migration
-  visiblename: kubo-migration
-  version: 0.24.0
-  origversion: 0.24.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (14 to 15 migration)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: kubo
-  binname: kubo-openrc
-  visiblename: kubo-openrc
-  version: 0.24.0
-  origversion: 0.24.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.28.0
-  origversion: 0.28.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: kubo
-  binname: kubo-bash-completion
-  visiblename: kubo-bash-completion
-  version: 0.28.0
-  origversion: 0.28.0-r3
-  status: outdated
-  summary: Bash completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: kubo
-  binname: kubo-doc
-  visiblename: kubo-doc
-  version: 0.28.0
-  origversion: 0.28.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: kubo
-  binname: kubo-migration
-  visiblename: kubo-migration
-  version: 0.28.0
-  origversion: 0.28.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (14 to 15 migration)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: kubo
-  binname: kubo-openrc
-  visiblename: kubo-openrc
-  version: 0.28.0
-  origversion: 0.28.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.32.1
-  origversion: 0.32.1-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: kubo
-  binname: kubo-bash-completion
-  visiblename: kubo-bash-completion
-  version: 0.32.1
-  origversion: 0.32.1-r5
-  status: outdated
-  summary: Bash completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: kubo
-  binname: kubo-doc
-  visiblename: kubo-doc
-  version: 0.32.1
-  origversion: 0.32.1-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: kubo
-  binname: kubo-migration
-  visiblename: kubo-migration
-  version: 0.32.1
-  origversion: 0.32.1-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: kubo
-  binname: kubo-openrc
-  visiblename: kubo-openrc
-  version: 0.32.1
-  origversion: 0.32.1-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.35.0
-  origversion: 0.35.0-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: kubo
-  binname: kubo-bash-completion
-  visiblename: kubo-bash-completion
-  version: 0.35.0
-  origversion: 0.35.0-r5
-  status: outdated
-  summary: Bash completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: kubo
-  binname: kubo-doc
-  visiblename: kubo-doc
-  version: 0.35.0
-  origversion: 0.35.0-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.21
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: alpine_3_22
-  subrepo: community
-  srcname: kubo
-  binname: kubo-migration
-  visiblename: kubo-migration
-  version: 0.35.0
-  origversion: 0.35.0-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: kubo
-  binname: kubo-openrc
-  visiblename: kubo-openrc
-  version: 0.35.0
-  origversion: 0.35.0-r5
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.39.0
-  origversion: 0.39.0-r6
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: kubo
-  binname: kubo-bash-completion
-  visiblename: kubo-bash-completion
-  version: 0.39.0
-  origversion: 0.39.0-r6
-  status: outdated
-  summary: Bash completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: kubo
-  binname: kubo-doc
-  visiblename: kubo-doc
-  version: 0.39.0
-  origversion: 0.39.0-r6
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: kubo
-  binname: kubo-migration
-  visiblename: kubo-migration
-  version: 0.39.0
-  origversion: 0.39.0-r6
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: kubo
-  binname: kubo-openrc
-  visiblename: kubo-openrc
-  version: 0.39.0
-  origversion: 0.39.0-r6
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.41.0
-  origversion: 0.41.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: kubo
-  binname: kubo-bash-completion
-  visiblename: kubo-bash-completion
-  version: 0.41.0
-  origversion: 0.41.0-r3
-  status: outdated
-  summary: Bash completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: kubo
-  binname: kubo-doc
-  visiblename: kubo-doc
-  version: 0.41.0
-  origversion: 0.41.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: kubo
-  binname: kubo-fish-completion
-  visiblename: kubo-fish-completion
-  version: 0.41.0
-  origversion: 0.41.0-r3
-  status: outdated
-  summary: Fish completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: kubo
-  binname: kubo-migration
-  visiblename: kubo-migration
-  version: 0.41.0
-  origversion: 0.41.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: kubo
-  binname: kubo-openrc
-  visiblename: kubo-openrc
-  version: 0.41.0
-  origversion: 0.41.0-r3
-  status: outdated
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: kubo
-  binname: kubo-zsh-completion
-  visiblename: kubo-zsh-completion
-  version: 0.41.0
-  origversion: 0.41.0-r3
-  status: outdated
-  summary: Zsh completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_edge
-  subrepo: community
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-r1
-  status: newest
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_edge
-  subrepo: community
-  srcname: kubo
-  binname: kubo-bash-completion
-  visiblename: kubo-bash-completion
-  version: 0.43.1
-  origversion: 0.43.1-r1
-  status: newest
-  summary: Bash completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_edge
-  subrepo: community
-  srcname: kubo
-  binname: kubo-doc
-  visiblename: kubo-doc
-  version: 0.43.1
-  origversion: 0.43.1-r1
-  status: newest
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_edge
-  subrepo: community
-  srcname: kubo
-  binname: kubo-fish-completion
-  visiblename: kubo-fish-completion
-  version: 0.43.1
-  origversion: 0.43.1-r1
-  status: newest
-  summary: Fish completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.22
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: alpine_edge
-  subrepo: community
-  srcname: kubo
-  binname: kubo-migration
-  visiblename: kubo-migration
-  version: 0.43.1
-  origversion: 0.43.1-r1
-  status: newest
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_edge
-  subrepo: community
-  srcname: kubo
-  binname: kubo-openrc
-  visiblename: kubo-openrc
-  version: 0.43.1
-  origversion: 0.43.1-r1
-  status: newest
-  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alpine_edge
-  subrepo: community
-  srcname: kubo
-  binname: kubo-zsh-completion
-  visiblename: kubo-zsh-completion
-  version: 0.43.1
-  origversion: 0.43.1-r1
-  status: newest
-  summary: Zsh completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
-- repo: alt_p11
-  srcname: kubo
-  binnames:
-    - kubo
-    - kubo-debuginfo
-  visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-alt1
-  status: newest
-  summary: IPFS implementation in Go
-  maintainers:
-    - lav@altlinux.ru
-  licenses:
-    - MIT
-  categories:
-    - File tools
-- repo: altsisyphus
-  srcname: kubo
-  binnames:
-    - kubo
-    - kubo-debuginfo
-  visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-alt1
-  status: newest
-  summary: IPFS implementation in Go
-  maintainers:
-    - lav@altlinux.ru
-  licenses:
-    - MIT
-  categories:
-    - File tools
-- repo: aosc
-  srcname: app-proxy/kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.43.0
-  origversion: null
-  status: outdated
-  summary: IPFS implementation in Go
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - net
-- repo: arch
-  subrepo: extra
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-1
-  status: newest
-  summary: IPFS implementation in Go
-  licenses:
-    - MIT
-- repo: aur
-  srcname: kubo-git
-  binname: kubo-git
-  visiblename: kubo-git
-  version: 0.30.0.r15.gb71cf0d
-  origversion: 0.30.0.r15.gb71cf0d-1
-  status: rolling
-  summary: IPFS implementation in Go
-  maintainers:
-    - rubenkelevra@aur
-  licenses:
-    - MIT AND Apache-2.0
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.8"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: gentoo
-  srcname: net-p2p/kubo
-  visiblename: net-p2p/kubo
-  version: 0.41.0
-  origversion: null
-  status: legacy
-  summary: Main implementation of IPFS
-  maintainers:
-    - stkw0@disroot.org
-    - hurikhan77+bgo@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-  categories:
-    - net-p2p
-- repo: gentoo
-  srcname: net-p2p/kubo
-  visiblename: net-p2p/kubo
-  version: 0.40.1
-  origversion: null
-  status: legacy
-  summary: Main implementation of IPFS
-  maintainers:
-    - stkw0@disroot.org
-    - hurikhan77+bgo@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-  categories:
-    - net-p2p
-- repo: gentoo
-  srcname: net-p2p/kubo
-  visiblename: net-p2p/kubo
-  version: 0.43.0
-  origversion: null
-  status: outdated
-  summary: Main implementation of IPFS
-  maintainers:
-    - stkw0@disroot.org
-    - hurikhan77+bgo@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-  categories:
-    - net-p2p
-- repo: gnuguix
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.42.0
-  origversion: null
-  status: outdated
-  summary: Go implementation of IPFS, a peer-to-peer hypermedia protocol
-- repo: homebrew
-  srcname: kubo
-  visiblename: kubo
-  version: 0.43.1
-  origversion: null
-  status: newest
-  summary: Peer-to-peer hypermedia protocol
-- repo: homebrew
-  srcname: kubo
-  visiblename: kubo
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Peer-to-peer hypermedia protocol
-- repo: kiss_community
-  subrepo: community
-  srcname: go-ipfs
-  visiblename: go-ipfs
-  version: 0.12.0
-  origversion: null
-  status: outdated
-  maintainers:
-    - m_matongo@icloud.com
-- repo: liguros_stable
-  srcname: net-p2p/kubo
-  visiblename: net-p2p/kubo
-  version: 0.35.0
-  origversion: null
-  status: legacy
-  summary: Main implementation of IPFS
-  maintainers:
-    - davidroman96@gmail.com
-    - hurikhan77+bgo@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-  categories:
-    - net-p2p
-- repo: liguros_stable
-  srcname: net-p2p/kubo
-  visiblename: net-p2p/kubo
-  version: 0.34.1
-  origversion: null
-  status: legacy
-  summary: Main implementation of IPFS
-  maintainers:
-    - davidroman96@gmail.com
-    - hurikhan77+bgo@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-  categories:
-    - net-p2p
-- repo: liguros_stable
-  srcname: net-p2p/kubo
-  visiblename: net-p2p/kubo
-  version: 0.36.0
-  origversion: null
-  status: outdated
-  summary: Main implementation of IPFS
-  maintainers:
-    - davidroman96@gmail.com
-    - hurikhan77+bgo@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-  categories:
-    - net-p2p
-- repo: liguros_develop
-  srcname: net-p2p/kubo
-  visiblename: net-p2p/kubo
-  version: 0.43.0
-  origversion: null
-  status: outdated
-  summary: Main implementation of IPFS
-  maintainers:
-    - stkw0@disroot.org
-    - hurikhan77+bgo@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-  categories:
-    - net-p2p
-- repo: liguros_develop
-  srcname: net-p2p/kubo
-  visiblename: net-p2p/kubo
-  version: 0.40.1
-  origversion: null
-  status: legacy
-  summary: Main implementation of IPFS
-  maintainers:
-    - stkw0@disroot.org
-    - hurikhan77+bgo@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-  categories:
-    - net-p2p
-- repo: liguros_develop
-  srcname: net-p2p/kubo
-  visiblename: net-p2p/kubo
-  version: 0.41.0
-  origversion: null
-  status: legacy
-  summary: Main implementation of IPFS
-  maintainers:
-    - stkw0@disroot.org
-    - hurikhan77+bgo@gmail.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-2
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-  categories:
-    - net-p2p
-- repo: macports
-  srcname: net/ipfs
-  binname: ipfs
-  visiblename: ipfs
-  version: 0.34.1
-  origversion: null
-  status: outdated
-  summary: Global, versioned, peer-to-peer filesystem
-  maintainers:
-    - sirn@github
-    - herbygillot@github
-  licenses:
-    - MIT
-  categories:
-    - net
-- repo: mageia_9
-  subrepo: core/release
-  srcname: kubo
-  binnames:
-    - kubo
-  visiblename: kubo
-  version: 0.19.2
-  origversion: 0.19.2-1.mga9
-  status: outdated
-  summary: IPFS implementation in Go
-  licenses:
-    - MIT
-  categories:
-    - Networking/Other
-- repo: mageia_10
-  subrepo: core/release
-  srcname: kubo
-  binnames:
-    - kubo
-  visiblename: kubo
-  version: 0.29.0
-  origversion: 0.29.0-2.mga10
-  status: outdated
-  summary: IPFS implementation in Go
-  licenses:
-    - MIT
-  categories:
-    - Networking/Other
-- repo: mageia_cauldron
-  subrepo: core/release
-  srcname: kubo
-  binnames:
-    - kubo
-  visiblename: kubo
-  version: 0.29.0
-  origversion: 0.29.0-2.mga10
-  status: outdated
-  summary: IPFS implementation in Go
-  licenses:
-    - MIT
-  categories:
-    - Networking/Other
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-1
-  status: newest
-  summary: IPFS implementation in Go
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-1
-  status: newest
-  summary: IPFS implementation in Go
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-1
-  status: newest
-  summary: IPFS implementation in Go
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: kubo
-  visiblename: kubo
-  version: 0.28.0
-  origversion: null
-  status: outdated
-  summary: An IPFS implementation in Go
-  maintainers:
-    - luflosi@luflosi.de
-    - fpletz@fnordicwalking.de
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: kubo
-  visiblename: kubo
-  version: 0.29.0
-  origversion: null
-  status: outdated
-  summary: IPFS implementation in Go
-  maintainers:
-    - luflosi@luflosi.de
-    - fpletz@fnordicwalking.de
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: kubo
-  visiblename: kubo
-  version: 0.34.1
-  origversion: null
-  status: outdated
-  summary: IPFS implementation in Go
-  maintainers:
-    - luflosi@luflosi.de
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: kubo
-  visiblename: kubo
-  version: 0.38.2
-  origversion: null
-  status: outdated
-  summary: IPFS implementation in Go
-  maintainers:
-    - luflosi@luflosi.de
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: kubo
-  visiblename: kubo
-  version: 0.40.1
-  origversion: null
-  status: outdated
-  summary: IPFS implementation in Go
-  maintainers:
-    - luflosi@luflosi.de
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: kubo
-  visiblename: kubo
-  version: 0.43.1
-  origversion: null
-  status: newest
-  summary: IPFS implementation in Go
-  maintainers:
-    - luflosi@luflosi.de
-  licenses:
-    - MIT
 - repo: npackd_stable
   srcname: ipfs
   binname: ipfs
@@ -1616,6 +168,237 @@
   binname: ipfs
   visiblename: IPFS
   version: 0.4.20
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.21
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.22
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.13"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.13.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.32.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.33"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.33.2
+  origversion: null
+  status: outdated
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.3.11
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: "0.4"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.2
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.3
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.4
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.8
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.10
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.11
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.12
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.13
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.14
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.15
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.16
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.17
   origversion: null
   status: legacy
   licenses:
@@ -1843,6 +626,1223 @@
     - ports@openbsd.org
   categories:
     - net
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.5"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.5.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.6"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.7"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.8"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.9"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.9.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.10"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.11"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.12"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.12.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: alpine_3_17
+  subrepo: community
+  srcname: kubo
+  binname: kubo-openrc
+  visiblename: kubo-openrc
+  version: 0.16.0
+  origversion: 0.16.0-r6
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: kubo
+  binname: kubo-doc
+  visiblename: kubo-doc
+  version: 0.16.0
+  origversion: 0.16.0-r6
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.16.0
+  origversion: 0.16.0-r6
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: kubo
+  binname: kubo-bash-completion
+  visiblename: kubo-bash-completion
+  version: 0.16.0
+  origversion: 0.16.0-r6
+  status: outdated
+  summary: Bash completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.19.2
+  origversion: 0.19.2-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: kubo
+  binname: kubo-bash-completion
+  visiblename: kubo-bash-completion
+  version: 0.19.2
+  origversion: 0.19.2-r5
+  status: outdated
+  summary: Bash completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: kubo
+  binname: kubo-doc
+  visiblename: kubo-doc
+  version: 0.19.2
+  origversion: 0.19.2-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: kubo
+  binname: kubo-migration
+  visiblename: kubo-migration
+  version: 0.19.2
+  origversion: 0.19.2-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (12 to 13 migration)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: kubo
+  binname: kubo-openrc
+  visiblename: kubo-openrc
+  version: 0.19.2
+  origversion: 0.19.2-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: aosc
+  srcname: app-proxy/kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.43.0
+  origversion: null
+  status: outdated
+  summary: IPFS implementation in Go
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - net
+- repo: alpine_3_19
+  subrepo: community
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.24.0
+  origversion: 0.24.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: kubo
+  binname: kubo-bash-completion
+  visiblename: kubo-bash-completion
+  version: 0.24.0
+  origversion: 0.24.0-r3
+  status: outdated
+  summary: Bash completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: kubo
+  binname: kubo-doc
+  visiblename: kubo-doc
+  version: 0.24.0
+  origversion: 0.24.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: kubo
+  binname: kubo-migration
+  visiblename: kubo-migration
+  version: 0.24.0
+  origversion: 0.24.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (14 to 15 migration)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: kubo
+  binname: kubo-openrc
+  visiblename: kubo-openrc
+  version: 0.24.0
+  origversion: 0.24.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.28.0
+  origversion: 0.28.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: kubo
+  binname: kubo-bash-completion
+  visiblename: kubo-bash-completion
+  version: 0.28.0
+  origversion: 0.28.0-r3
+  status: outdated
+  summary: Bash completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: kubo
+  binname: kubo-doc
+  visiblename: kubo-doc
+  version: 0.28.0
+  origversion: 0.28.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: kubo
+  binname: kubo-migration
+  visiblename: kubo-migration
+  version: 0.28.0
+  origversion: 0.28.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (14 to 15 migration)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: kubo
+  binname: kubo-openrc
+  visiblename: kubo-openrc
+  version: 0.28.0
+  origversion: 0.28.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.43.1
+  origversion: 0.43.1-1
+  status: newest
+  summary: IPFS implementation in Go
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.32.1
+  origversion: 0.32.1-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: kubo
+  binname: kubo-bash-completion
+  visiblename: kubo-bash-completion
+  version: 0.32.1
+  origversion: 0.32.1-r5
+  status: outdated
+  summary: Bash completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: kubo
+  binname: kubo-doc
+  visiblename: kubo-doc
+  version: 0.32.1
+  origversion: 0.32.1-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: kubo
+  binname: kubo-migration
+  visiblename: kubo-migration
+  version: 0.32.1
+  origversion: 0.32.1-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: kubo
+  binname: kubo-openrc
+  visiblename: kubo-openrc
+  version: 0.32.1
+  origversion: 0.32.1-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.35.0
+  origversion: 0.35.0-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: kubo
+  binname: kubo-bash-completion
+  visiblename: kubo-bash-completion
+  version: 0.35.0
+  origversion: 0.35.0-r5
+  status: outdated
+  summary: Bash completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: kubo
+  binname: kubo-doc
+  visiblename: kubo-doc
+  version: 0.35.0
+  origversion: 0.35.0-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: kubo
+  binname: kubo-migration
+  visiblename: kubo-migration
+  version: 0.35.0
+  origversion: 0.35.0-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: kubo
+  binname: kubo-openrc
+  visiblename: kubo-openrc
+  version: 0.35.0
+  origversion: 0.35.0-r5
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.39.0
+  origversion: 0.39.0-r6
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: kubo
+  binname: kubo-bash-completion
+  visiblename: kubo-bash-completion
+  version: 0.39.0
+  origversion: 0.39.0-r6
+  status: outdated
+  summary: Bash completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: kubo
+  binname: kubo-doc
+  visiblename: kubo-doc
+  version: 0.39.0
+  origversion: 0.39.0-r6
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: kubo
+  binname: kubo-migration
+  visiblename: kubo-migration
+  version: 0.39.0
+  origversion: 0.39.0-r6
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: kubo
+  binname: kubo-openrc
+  visiblename: kubo-openrc
+  version: 0.39.0
+  origversion: 0.39.0-r6
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.41.0
+  origversion: 0.41.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: kubo
+  binname: kubo-bash-completion
+  visiblename: kubo-bash-completion
+  version: 0.41.0
+  origversion: 0.41.0-r3
+  status: outdated
+  summary: Bash completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: kubo
+  binname: kubo-doc
+  visiblename: kubo-doc
+  version: 0.41.0
+  origversion: 0.41.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: kubo
+  binname: kubo-fish-completion
+  visiblename: kubo-fish-completion
+  version: 0.41.0
+  origversion: 0.41.0-r3
+  status: outdated
+  summary: Fish completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: kubo
+  binname: kubo-migration
+  visiblename: kubo-migration
+  version: 0.41.0
+  origversion: 0.41.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: kubo
+  binname: kubo-openrc
+  visiblename: kubo-openrc
+  version: 0.41.0
+  origversion: 0.41.0-r3
+  status: outdated
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: kubo
+  binname: kubo-zsh-completion
+  visiblename: kubo-zsh-completion
+  version: 0.41.0
+  origversion: 0.41.0-r3
+  status: outdated
+  summary: Zsh completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.43.1
+  origversion: 0.43.1-r1
+  status: newest
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: kubo
+  binname: kubo-bash-completion
+  visiblename: kubo-bash-completion
+  version: 0.43.1
+  origversion: 0.43.1-r1
+  status: newest
+  summary: Bash completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: kubo
+  binname: kubo-doc
+  visiblename: kubo-doc
+  version: 0.43.1
+  origversion: 0.43.1-r1
+  status: newest
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: kubo
+  binname: kubo-fish-completion
+  visiblename: kubo-fish-completion
+  version: 0.43.1
+  origversion: 0.43.1-r1
+  status: newest
+  summary: Fish completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: kubo
+  binname: kubo-migration
+  visiblename: kubo-migration
+  version: 0.43.1
+  origversion: 0.43.1-r1
+  status: newest
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: kubo
+  binname: kubo-openrc
+  visiblename: kubo-openrc
+  version: 0.43.1
+  origversion: 0.43.1-r1
+  status: newest
+  summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: kubo
+  binname: kubo-zsh-completion
+  visiblename: kubo-zsh-completion
+  version: 0.43.1
+  origversion: 0.43.1-r1
+  status: newest
+  summary: Zsh completions for kubo
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alt_p11
+  srcname: kubo
+  binnames:
+    - kubo
+    - kubo-debuginfo
+  visiblename: kubo
+  version: 0.43.1
+  origversion: 0.43.1-alt1
+  status: newest
+  summary: IPFS implementation in Go
+  maintainers:
+    - lav@altlinux.ru
+  licenses:
+    - MIT
+  categories:
+    - File tools
+- repo: altsisyphus
+  srcname: kubo
+  binnames:
+    - kubo
+    - kubo-debuginfo
+  visiblename: kubo
+  version: 0.43.1
+  origversion: 0.43.1-alt1
+  status: newest
+  summary: IPFS implementation in Go
+  maintainers:
+    - lav@altlinux.ru
+  licenses:
+    - MIT
+  categories:
+    - File tools
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.12.2
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: arch
+  subrepo: extra
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.43.1
+  origversion: 0.43.1-1
+  status: newest
+  summary: IPFS implementation in Go
+  licenses:
+    - MIT
+- repo: aur
+  srcname: kubo-git
+  binname: kubo-git
+  visiblename: kubo-git
+  version: 0.30.0.r15.gb71cf0d
+  origversion: 0.30.0.r15.gb71cf0d-1
+  status: rolling
+  summary: IPFS implementation in Go
+  maintainers:
+    - rubenkelevra@aur
+  licenses:
+    - MIT AND Apache-2.0
+- repo: chocolatey
+  binname: go-ipfs
+  visiblename: Kubo
+  version: 0.17.0
+  origversion: null
+  status: outdated
+  summary: IPFS implementation in Go https://ipfs.tech
+- repo: chromebrew
+  srcname: ipfs
+  visiblename: ipfs
+  version: 0.4.13
+  origversion: null
+  status: outdated
+  summary: A peer-to-peer hypermedia protocol
+  licenses:
+    - MIT and Apache-2.0
+- repo: gentoo
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.41.0
+  origversion: null
+  status: legacy
+  summary: Main implementation of IPFS
+  maintainers:
+    - stkw0@disroot.org
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: nix_stable_26_05
+  srcname: kubo
+  visiblename: kubo
+  version: 0.40.1
+  origversion: null
+  status: outdated
+  summary: IPFS implementation in Go
+  maintainers:
+    - luflosi@luflosi.de
+  licenses:
+    - MIT
+- repo: gentoo
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.40.1
+  origversion: null
+  status: legacy
+  summary: Main implementation of IPFS
+  maintainers:
+    - stkw0@disroot.org
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: gentoo
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.43.0
+  origversion: null
+  status: outdated
+  summary: Main implementation of IPFS
+  maintainers:
+    - stkw0@disroot.org
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: gnuguix
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.42.0
+  origversion: null
+  status: outdated
+  summary: Go implementation of IPFS, a peer-to-peer hypermedia protocol
+- repo: homebrew
+  srcname: kubo
+  visiblename: kubo
+  version: 0.43.1
+  origversion: null
+  status: newest
+  summary: Peer-to-peer hypermedia protocol
+- repo: homebrew
+  srcname: kubo
+  visiblename: kubo
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Peer-to-peer hypermedia protocol
+- repo: kiss_community
+  subrepo: community
+  srcname: go-ipfs
+  visiblename: go-ipfs
+  version: 0.12.0
+  origversion: null
+  status: outdated
+  maintainers:
+    - m_matongo@icloud.com
+- repo: liguros_stable
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.35.0
+  origversion: null
+  status: legacy
+  summary: Main implementation of IPFS
+  maintainers:
+    - davidroman96@gmail.com
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: nix_stable_24_05
+  srcname: kubo
+  visiblename: kubo
+  version: 0.28.0
+  origversion: null
+  status: outdated
+  summary: An IPFS implementation in Go
+  maintainers:
+    - luflosi@luflosi.de
+    - fpletz@fnordicwalking.de
+  licenses:
+    - MIT
+- repo: liguros_stable
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.34.1
+  origversion: null
+  status: legacy
+  summary: Main implementation of IPFS
+  maintainers:
+    - davidroman96@gmail.com
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: liguros_stable
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.36.0
+  origversion: null
+  status: outdated
+  summary: Main implementation of IPFS
+  maintainers:
+    - davidroman96@gmail.com
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: liguros_develop
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.43.0
+  origversion: null
+  status: outdated
+  summary: Main implementation of IPFS
+  maintainers:
+    - stkw0@disroot.org
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: liguros_develop
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.40.1
+  origversion: null
+  status: legacy
+  summary: Main implementation of IPFS
+  maintainers:
+    - stkw0@disroot.org
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: liguros_develop
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.41.0
+  origversion: null
+  status: legacy
+  summary: Main implementation of IPFS
+  maintainers:
+    - stkw0@disroot.org
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: macports
+  srcname: net/ipfs
+  binname: ipfs
+  visiblename: ipfs
+  version: 0.34.1
+  origversion: null
+  status: outdated
+  summary: Global, versioned, peer-to-peer filesystem
+  maintainers:
+    - sirn@github
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - net
+- repo: mageia_9
+  subrepo: core/release
+  srcname: kubo
+  binnames:
+    - kubo
+  visiblename: kubo
+  version: 0.19.2
+  origversion: 0.19.2-1.mga9
+  status: outdated
+  summary: IPFS implementation in Go
+  licenses:
+    - MIT
+  categories:
+    - Networking/Other
+- repo: mageia_10
+  subrepo: core/release
+  srcname: kubo
+  binnames:
+    - kubo
+  visiblename: kubo
+  version: 0.29.0
+  origversion: 0.29.0-2.mga10
+  status: outdated
+  summary: IPFS implementation in Go
+  licenses:
+    - MIT
+  categories:
+    - Networking/Other
+- repo: mageia_cauldron
+  subrepo: core/release
+  srcname: kubo
+  binnames:
+    - kubo
+  visiblename: kubo
+  version: 0.29.0
+  origversion: 0.29.0-2.mga10
+  status: outdated
+  summary: IPFS implementation in Go
+  licenses:
+    - MIT
+  categories:
+    - Networking/Other
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.43.1
+  origversion: 0.43.1-1
+  status: newest
+  summary: IPFS implementation in Go
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.43.1
+  origversion: 0.43.1-1
+  status: newest
+  summary: IPFS implementation in Go
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: kubo
+  visiblename: kubo
+  version: 0.29.0
+  origversion: null
+  status: outdated
+  summary: IPFS implementation in Go
+  maintainers:
+    - luflosi@luflosi.de
+    - fpletz@fnordicwalking.de
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: kubo
+  visiblename: kubo
+  version: 0.34.1
+  origversion: null
+  status: outdated
+  summary: IPFS implementation in Go
+  maintainers:
+    - luflosi@luflosi.de
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: kubo
+  visiblename: kubo
+  version: 0.38.2
+  origversion: null
+  status: outdated
+  summary: IPFS implementation in Go
+  maintainers:
+    - luflosi@luflosi.de
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: kubo
+  visiblename: kubo
+  version: 0.43.1
+  origversion: null
+  status: newest
+  summary: IPFS implementation in Go
+  maintainers:
+    - luflosi@luflosi.de
+  licenses:
+    - MIT
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: kubo
@@ -2087,10 +2087,10 @@
   summary: Reference implementation of IPFS in Go
   licenses:
     - MIT License
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
   version: 0.4.23
   origversion: null
   status: legacy
@@ -2099,10 +2099,10 @@
   categories:
     - Communications
   vulnerable: true
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
   version: 0.4.23
   origversion: null
   status: legacy
