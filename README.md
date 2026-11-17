@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+[ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 
 [![x-cmd/install — kubo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubo.svg)](https://x-cmd.com/install/kubo)
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,187 · **Forks**: 3,171 · **Open issues**: 4,858 · **Contributors**: 420
+- **Stars**: 17,190 · **Forks**: 3,171 · **Open issues**: 4,858 · **Contributors**: 420
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 11 | 1 | 4 | 0 |
-| last60d | 2026-09-17 | 0 | 2 | 16 | 1 | 5 | 1 |
-| 90d | 2026-08-18 | 1 | 13 | 26 | 5 | 9 | 37 |
-| last180d | 2026-05-20 | 6 | 78 | 34 | 13 | 12 | 180 |
-| 360d | 2025-11-21 | 14 | 236 | 41 | 55 | 22 | 420 |
-| last720d | 2024-11-26 | 38 | 512 | 42 | 156 | 35 | 778 |
+| 30d | 2026-10-18 | 0 | 0 | 11 | 0 | 4 | 0 |
+| last60d | 2026-09-18 | 0 | 2 | 16 | 1 | 5 | 1 |
+| 90d | 2026-08-19 | 1 | 13 | 26 | 5 | 8 | 37 |
+| last180d | 2026-05-21 | 6 | 78 | 34 | 13 | 12 | 180 |
+| 360d | 2025-11-22 | 14 | 236 | 41 | 55 | 22 | 420 |
+| last720d | 2024-11-27 | 38 | 510 | 42 | 156 | 35 | 774 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:45:09Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:50:56Z._
