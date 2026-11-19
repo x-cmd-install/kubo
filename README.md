@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,190 · **Forks**: 3,171 · **Open issues**: 4,858 · **Contributors**: 420
+- **Stars**: 17,195 · **Forks**: 3,172 · **Open issues**: 4,858 · **Contributors**: 420
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 11 | 0 | 4 | 0 |
-| last60d | 2026-09-18 | 0 | 2 | 16 | 1 | 5 | 1 |
-| 90d | 2026-08-19 | 1 | 13 | 26 | 5 | 8 | 37 |
-| last180d | 2026-05-21 | 6 | 78 | 34 | 13 | 12 | 180 |
-| 360d | 2025-11-22 | 14 | 236 | 41 | 55 | 22 | 420 |
-| last720d | 2024-11-27 | 38 | 510 | 42 | 156 | 35 | 774 |
+| 30d | 2026-10-20 | 0 | 0 | 11 | 0 | 3 | 0 |
+| last60d | 2026-09-20 | 0 | 2 | 16 | 1 | 5 | 1 |
+| 90d | 2026-08-21 | 1 | 12 | 26 | 5 | 8 | 37 |
+| last180d | 2026-05-23 | 6 | 78 | 34 | 13 | 12 | 180 |
+| 360d | 2025-11-24 | 14 | 233 | 41 | 55 | 22 | 420 |
+| last720d | 2024-11-29 | 38 | 509 | 42 | 156 | 35 | 769 |
 
 ## Release assets
 
@@ -102,7 +102,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **172** distros on [repology.org](https://repology.org/project/kubo). **24** are ✅ on the latest upstream release, **70** are ⚠️ on an older version.
+Reported by **171** distros on [repology.org](https://repology.org/project/kubo). **24** are ✅ on the latest upstream release, **69** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -122,4 +122,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:50:56Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:10:46Z._
