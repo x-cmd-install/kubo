@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-[ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 
 [![x-cmd/install — kubo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubo.svg)](https://x-cmd.com/install/kubo)
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,195 · **Forks**: 3,172 · **Open issues**: 4,858 · **Contributors**: 420
+- **Stars**: 17,194 · **Forks**: 3,172 · **Open issues**: 4,859 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 4830 · **Open PRs**: 91 · **Closed issues**: 4059 · **Open issues**: 799 · **Commits**: 16022
+- **Releases**: 135 · **Merged PRs**: 4830 · **Open PRs**: 92 · **Closed issues**: 4059 · **Open issues**: 800 · **Commits**: 16022
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 11 | 0 | 3 | 0 |
-| last60d | 2026-09-20 | 0 | 2 | 16 | 1 | 5 | 1 |
-| 90d | 2026-08-21 | 1 | 12 | 26 | 5 | 8 | 37 |
-| last180d | 2026-05-23 | 6 | 78 | 34 | 13 | 12 | 180 |
-| 360d | 2025-11-24 | 14 | 233 | 41 | 55 | 22 | 420 |
-| last720d | 2024-11-29 | 38 | 509 | 42 | 156 | 35 | 769 |
+| 30d | 2026-10-21 | 0 | 0 | 11 | 0 | 4 | 0 |
+| last60d | 2026-09-21 | 0 | 1 | 17 | 1 | 6 | 1 |
+| 90d | 2026-08-22 | 1 | 12 | 27 | 5 | 9 | 37 |
+| last180d | 2026-05-24 | 6 | 78 | 35 | 13 | 13 | 180 |
+| 360d | 2025-11-25 | 14 | 232 | 42 | 55 | 23 | 420 |
+| last720d | 2024-11-30 | 38 | 508 | 43 | 156 | 36 | 768 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:10:46Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:26:01Z._
