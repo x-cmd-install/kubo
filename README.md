@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.43.1` (2026-09-15)
-- **Last commit**: 2026-09-27
+- **Last commit**: 2026-11-23
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 17,194 · **Forks**: 3,176 · **Open issues**: 4,859 · **Contributors**: 420
+- **Stars**: 17,196 · **Forks**: 3,176 · **Open issues**: 4,859 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 4830 · **Open PRs**: 93 · **Closed issues**: 4059 · **Open issues**: 800 · **Commits**: 16022
+- **Releases**: 135 · **Merged PRs**: 4831 · **Open PRs**: 93 · **Closed issues**: 4060 · **Open issues**: 799 · **Commits**: 16023
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 12 | 0 | 4 | 0 |
-| last60d | 2026-09-24 | 0 | 1 | 17 | 1 | 6 | 0 |
-| 90d | 2026-08-25 | 1 | 11 | 28 | 5 | 9 | 32 |
-| last180d | 2026-05-27 | 6 | 75 | 36 | 13 | 13 | 169 |
-| 360d | 2025-11-28 | 13 | 226 | 43 | 53 | 23 | 409 |
-| last720d | 2024-12-03 | 38 | 507 | 44 | 153 | 36 | 768 |
+| 30d | 2026-10-25 | 0 | 1 | 12 | 1 | 3 | 1 |
+| last60d | 2026-09-25 | 0 | 2 | 16 | 3 | 4 | 1 |
+| 90d | 2026-08-26 | 1 | 12 | 28 | 7 | 7 | 33 |
+| last180d | 2026-05-28 | 5 | 75 | 36 | 15 | 11 | 170 |
+| 360d | 2025-11-29 | 13 | 227 | 43 | 54 | 22 | 410 |
+| last720d | 2024-12-04 | 38 | 508 | 44 | 154 | 35 | 766 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for kubo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T11:13:10Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:14:53Z._
