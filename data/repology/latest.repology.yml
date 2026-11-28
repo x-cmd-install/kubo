@@ -1,3 +1,563 @@
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.14
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.15
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.16
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.17
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.18
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.19
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.20
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.21
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.12.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.12.2
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: "0.13"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.13.1
+  origversion: null
+  status: outdated
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: openbsd
+  srcname: net/go-ipfs
+  binname: kubo
+  visiblename: net/go-ipfs
+  version: 0.43.1
+  origversion: null
+  status: outdated
+  summary: IPFS implementation in Go
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - net
+- repo: slackbuilds
+  srcname: network/go-ipfs
+  visiblename: network/go-ipfs
+  version: 0.4.23
+  origversion: null
+  status: outdated
+  categories:
+    - network
+  vulnerable: true
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: "0.12"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.22
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: "0.5"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.5.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: "0.6"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: "0.7"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: "0.8"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: "0.9"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.9.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: "0.10"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: "0.11"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.33"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.3.11
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.4"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.2
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.3
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.4
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.8
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.10
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.7"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.8"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.10"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.11
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.14
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.15
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.16
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.17
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.18
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.9"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.19
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.9.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.20
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.21
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.11"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.12"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.12.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: 0.4.22
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
 - repo: npackd_stable
   srcname: ipfs
   binname: ipfs
@@ -35,7 +595,7 @@
   srcname: ipfs
   binname: ipfs
   visiblename: IPFS
-  version: 0.32.1
+  version: "0.5"
   origversion: null
   status: legacy
   licenses:
@@ -46,7 +606,7 @@
   srcname: ipfs
   binname: ipfs
   visiblename: IPFS
-  version: "0.33"
+  version: 0.32.1
   origversion: null
   status: legacy
   licenses:
@@ -68,9 +628,64 @@
   srcname: ipfs
   binname: ipfs
   visiblename: IPFS
+  version: 0.5.1
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
   version: 0.33.2
   origversion: null
   status: outdated
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
+  version: "0.6"
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.8
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.10
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.11
+  origversion: null
+  status: legacy
   licenses:
     - MIT license
   categories:
@@ -130,250 +745,6 @@
     - MIT license
   categories:
     - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.8
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.4"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.2
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.10
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.3
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.4
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.18
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.8
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.11
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.10
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.12
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.11
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.14
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.16
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.15
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.17
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.13
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.19
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.14
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.20
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.9.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: alpine_3_17
-  subrepo: community
-  srcname: kubo
-  binname: kubo-bash-completion
-  visiblename: kubo-bash-completion
-  version: 0.16.0
-  origversion: 0.16.0-r6
-  status: outdated
-  summary: Bash completions for kubo
-  maintainers:
-    - oleg.titov@gmail.com
-  licenses:
-    - MIT Apache-2.0
 - repo: alpine_3_17
   subrepo: community
   srcname: kubo
@@ -409,6 +780,19 @@
   origversion: 0.16.0-r6
   status: outdated
   summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - MIT Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: kubo
+  binname: kubo-bash-completion
+  visiblename: kubo-bash-completion
+  version: 0.16.0
+  origversion: 0.16.0-r6
+  status: outdated
+  summary: Bash completions for kubo
   maintainers:
     - oleg.titov@gmail.com
   licenses:
@@ -582,6 +966,17 @@
     - oleg.titov@gmail.com
   licenses:
     - MIT Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: kubo
+  binname: kubo
+  visiblename: kubo
+  version: 0.43.2
+  origversion: 0.43.2-1
+  status: newest
+  summary: IPFS implementation in Go
+  licenses:
+    - MIT
 - repo: alpine_3_20
   subrepo: community
   srcname: kubo
@@ -660,17 +1055,6 @@
     - oleg.titov@gmail.com
   licenses:
     - MIT Apache-2.0
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.10"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
 - repo: alpine_3_21
   subrepo: community
   srcname: kubo
@@ -866,6 +1250,17 @@
     - oleg.titov@gmail.com
   licenses:
     - MIT Apache-2.0
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.12
+  origversion: null
+  status: legacy
+  licenses:
+    - MIT license
+  categories:
+    - Communications
 - repo: alpine_3_24
   subrepo: community
   srcname: kubo
@@ -910,56 +1305,46 @@
   srcname: kubo
   binname: kubo
   visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-r1
+  version: 0.43.2
+  origversion: 0.43.2-r0
   status: newest
   summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol
   maintainers:
     - oleg.titov@gmail.com
   licenses:
     - MIT Apache-2.0
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.11"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
 - repo: alpine_edge
   subrepo: community
   srcname: kubo
   binname: kubo-bash-completion
   visiblename: kubo-bash-completion
-  version: 0.43.1
-  origversion: 0.43.1-r1
+  version: 0.43.2
+  origversion: 0.43.2-r0
   status: newest
   summary: Bash completions for kubo
   maintainers:
     - oleg.titov@gmail.com
   licenses:
     - MIT Apache-2.0
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.21
+- repo: nix_stable_24_11
+  srcname: kubo
+  visiblename: kubo
+  version: 0.29.0
   origversion: null
-  status: legacy
+  status: outdated
+  summary: IPFS implementation in Go
+  maintainers:
+    - luflosi@luflosi.de
+    - fpletz@fnordicwalking.de
   licenses:
-    - MIT license
-  categories:
-    - Communications
+    - MIT
 - repo: alpine_edge
   subrepo: community
   srcname: kubo
   binname: kubo-doc
   visiblename: kubo-doc
-  version: 0.43.1
-  origversion: 0.43.1-r1
+  version: 0.43.2
+  origversion: 0.43.2-r0
   status: newest
   summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (documentation)
   maintainers:
@@ -971,8 +1356,8 @@
   srcname: kubo
   binname: kubo-fish-completion
   visiblename: kubo-fish-completion
-  version: 0.43.1
-  origversion: 0.43.1-r1
+  version: 0.43.2
+  origversion: 0.43.2-r0
   status: newest
   summary: Fish completions for kubo
   maintainers:
@@ -984,8 +1369,8 @@
   srcname: kubo
   binname: kubo-migration
   visiblename: kubo-migration
-  version: 0.43.1
-  origversion: 0.43.1-r1
+  version: 0.43.2
+  origversion: 0.43.2-r0
   status: newest
   summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (15 to 16 migration)
   maintainers:
@@ -997,8 +1382,8 @@
   srcname: kubo
   binname: kubo-openrc
   visiblename: kubo-openrc
-  version: 0.43.1
-  origversion: 0.43.1-r1
+  version: 0.43.2
+  origversion: 0.43.2-r0
   status: newest
   summary: Inter Platnetary File System (IPFS), a peer-to-peer hypermedia distribution protocol (OpenRC init scripts)
   maintainers:
@@ -1010,8 +1395,8 @@
   srcname: kubo
   binname: kubo-zsh-completion
   visiblename: kubo-zsh-completion
-  version: 0.43.1
-  origversion: 0.43.1-r1
+  version: 0.43.2
+  origversion: 0.43.2-r0
   status: newest
   summary: Zsh completions for kubo
   maintainers:
@@ -1026,7 +1411,7 @@
   visiblename: kubo
   version: 0.43.1
   origversion: 0.43.1-alt1
-  status: newest
+  status: outdated
   summary: IPFS implementation in Go
   maintainers:
     - lav@altlinux.ru
@@ -1040,8 +1425,8 @@
     - kubo
     - kubo-debuginfo
   visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-alt1
+  version: 0.43.2
+  origversion: 0.43.2-alt1
   status: newest
   summary: IPFS implementation in Go
   maintainers:
@@ -1067,8 +1452,8 @@
   srcname: kubo
   binname: kubo
   visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-1
+  version: 0.43.2
+  origversion: 0.43.2-1
   status: newest
   summary: IPFS implementation in Go
   licenses:
@@ -1101,22 +1486,66 @@
   summary: A peer-to-peer hypermedia protocol
   licenses:
     - MIT and Apache-2.0
-- repo: nix_unstable
+- repo: nix_stable_25_05
   srcname: kubo
   visiblename: kubo
-  version: 0.43.1
+  version: 0.34.1
   origversion: null
-  status: newest
+  status: outdated
   summary: IPFS implementation in Go
   maintainers:
     - luflosi@luflosi.de
   licenses:
     - MIT
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.3.11
+- repo: nix_stable_25_11
+  srcname: kubo
+  visiblename: kubo
+  version: 0.38.2
+  origversion: null
+  status: outdated
+  summary: IPFS implementation in Go
+  maintainers:
+    - luflosi@luflosi.de
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: kubo
+  visiblename: kubo
+  version: 0.28.0
+  origversion: null
+  status: outdated
+  summary: An IPFS implementation in Go
+  maintainers:
+    - luflosi@luflosi.de
+    - fpletz@fnordicwalking.de
+  licenses:
+    - MIT
+- repo: gentoo
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.43.1
+  origversion: null
+  status: outdated
+  summary: Main implementation of IPFS
+  maintainers:
+    - stkw0@disroot.org
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: npackd_stable64
+  srcname: ipfs64
+  binname: ipfs64
+  visiblename: IPFS 64 bit
+  version: 0.4.13
   origversion: null
   status: legacy
   licenses:
@@ -1170,7 +1599,7 @@
   visiblename: net-p2p/kubo
   version: 0.43.0
   origversion: null
-  status: outdated
+  status: legacy
   summary: Main implementation of IPFS
   maintainers:
     - stkw0@disroot.org
@@ -1197,7 +1626,7 @@
 - repo: homebrew
   srcname: kubo
   visiblename: kubo
-  version: 0.43.1
+  version: 0.43.2
   origversion: null
   status: newest
   summary: Peer-to-peer hypermedia protocol
@@ -1217,28 +1646,6 @@
   status: outdated
   maintainers:
     - m_matongo@icloud.com
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.12"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.12.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
 - repo: liguros_stable
   srcname: net-p2p/kubo
   visiblename: net-p2p/kubo
@@ -1307,7 +1714,7 @@
   visiblename: net-p2p/kubo
   version: 0.43.0
   origversion: null
-  status: outdated
+  status: legacy
   summary: Main implementation of IPFS
   maintainers:
     - stkw0@disroot.org
@@ -1350,6 +1757,27 @@
   version: 0.41.0
   origversion: null
   status: legacy
+  summary: Main implementation of IPFS
+  maintainers:
+    - stkw0@disroot.org
+    - hurikhan77+bgo@gmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+  categories:
+    - net-p2p
+- repo: liguros_develop
+  srcname: net-p2p/kubo
+  visiblename: net-p2p/kubo
+  version: 0.43.1
+  origversion: null
+  status: outdated
   summary: Main implementation of IPFS
   maintainers:
     - stkw0@disroot.org
@@ -1415,7 +1843,7 @@
   visiblename: kubo
   version: 0.43.1
   origversion: 0.43.1-1
-  status: newest
+  status: outdated
   summary: IPFS implementation in Go
   licenses:
     - MIT
@@ -1426,65 +1854,8 @@
   visiblename: kubo
   version: 0.43.1
   origversion: 0.43.1-1
-  status: newest
-  summary: IPFS implementation in Go
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: kubo
-  binname: kubo
-  visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1-1
-  status: newest
-  summary: IPFS implementation in Go
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: kubo
-  visiblename: kubo
-  version: 0.28.0
-  origversion: null
-  status: outdated
-  summary: An IPFS implementation in Go
-  maintainers:
-    - luflosi@luflosi.de
-    - fpletz@fnordicwalking.de
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: kubo
-  visiblename: kubo
-  version: 0.29.0
-  origversion: null
   status: outdated
   summary: IPFS implementation in Go
-  maintainers:
-    - luflosi@luflosi.de
-    - fpletz@fnordicwalking.de
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: kubo
-  visiblename: kubo
-  version: 0.34.1
-  origversion: null
-  status: outdated
-  summary: IPFS implementation in Go
-  maintainers:
-    - luflosi@luflosi.de
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: kubo
-  visiblename: kubo
-  version: 0.38.2
-  origversion: null
-  status: outdated
-  summary: IPFS implementation in Go
-  maintainers:
-    - luflosi@luflosi.de
   licenses:
     - MIT
 - repo: nix_stable_26_05
@@ -1498,337 +1869,17 @@
     - luflosi@luflosi.de
   licenses:
     - MIT
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.22
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.5"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.5.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.6"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.7"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.8"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: "0.9"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.15
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.16
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.17
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.18
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.19
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.20
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.21
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.4.22
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: "0.5"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.5.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: "0.6"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: "0.7"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: "0.8"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: "0.9"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.9.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: "0.10"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: "0.11"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: "0.12"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.12.1
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.12.2
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: "0.13"
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: npackd_stable64
-  srcname: ipfs64
-  binname: ipfs64
-  visiblename: IPFS 64 bit
-  version: 0.13.1
-  origversion: null
-  status: outdated
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-- repo: openbsd
-  srcname: net/go-ipfs
-  binname: kubo
-  visiblename: net/go-ipfs
+- repo: nix_unstable
+  srcname: kubo
+  visiblename: kubo
   version: 0.43.1
   origversion: null
-  status: newest
+  status: outdated
   summary: IPFS implementation in Go
   maintainers:
-    - ports@openbsd.org
-  categories:
-    - net
+    - luflosi@luflosi.de
+  licenses:
+    - MIT
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: kubo
@@ -1934,7 +1985,7 @@
   visiblename: kubo
   version: 0.43.1
   origversion: 0.43.1-2.1
-  status: newest
+  status: outdated
   summary: IPFS implementation in Go
   licenses:
     - Apache-2.0 AND MIT
@@ -1947,7 +1998,7 @@
   visiblename: kubo
   version: 0.43.1
   origversion: 0.43.1-1
-  status: newest
+  status: outdated
   summary: IPFS implementation in Go
   licenses:
     - MIT
@@ -1991,7 +2042,7 @@
   subrepo: main
   binname: kubo
   visiblename: kubo
-  version: 0.43.1
+  version: 0.43.2
   origversion: null
   status: newest
   licenses:
@@ -2000,7 +2051,7 @@
   srcname: kubo
   binname: kubo
   visiblename: kubo
-  version: 0.43.1
+  version: 0.43.2
   origversion: null
   status: newest
   summary: A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
@@ -2015,7 +2066,7 @@
   srcname: kubo
   binname: kubo-dbginfo
   visiblename: kubo-dbginfo
-  version: 0.43.1
+  version: 0.43.2
   origversion: null
   status: newest
   summary: Debug symbols for kubo
@@ -2030,7 +2081,7 @@
   srcname: kubo
   binname: kubo
   visiblename: kubo
-  version: 0.43.1
+  version: 0.43.2
   origversion: null
   status: newest
   summary: A peer-to-peer hypermedia distribution protocol
@@ -2041,8 +2092,8 @@
   srcname: kubo
   binname: go-ipfs
   visiblename: go-ipfs
-  version: 0.43.1
-  origversion: 0.43.1_1
+  version: 0.43.2
+  origversion: 0.43.2_1
   status: newest
   summary: Global versioned P2P merkle DAG file system - transitional dummy package
   maintainers:
@@ -2055,8 +2106,8 @@
   srcname: kubo
   binname: kubo
   visiblename: kubo
-  version: 0.43.1
-  origversion: 0.43.1_1
+  version: 0.43.2
+  origversion: 0.43.2_1
   status: newest
   summary: Global versioned P2P merkle DAG file system
   maintainers:
@@ -2067,24 +2118,12 @@
 - repo: wikidata
   srcname: Q42065093
   visiblename: Kubo
-  version: 0.43.1
+  version: 0.43.2
   origversion: null
   status: outdated
   summary: Reference implementation of IPFS in Go
   licenses:
     - MIT License
-- repo: npackd_stable
-  srcname: ipfs
-  binname: ipfs
-  visiblename: IPFS
-  version: 0.4.23
-  origversion: null
-  status: legacy
-  licenses:
-    - MIT license
-  categories:
-    - Communications
-  vulnerable: true
 - repo: npackd_stable64
   srcname: ipfs64
   binname: ipfs64
@@ -2097,12 +2136,15 @@
   categories:
     - Communications
   vulnerable: true
-- repo: slackbuilds
-  srcname: network/go-ipfs
-  visiblename: network/go-ipfs
+- repo: npackd_stable
+  srcname: ipfs
+  binname: ipfs
+  visiblename: IPFS
   version: 0.4.23
   origversion: null
-  status: outdated
+  status: legacy
+  licenses:
+    - MIT license
   categories:
-    - network
+    - Communications
   vulnerable: true
